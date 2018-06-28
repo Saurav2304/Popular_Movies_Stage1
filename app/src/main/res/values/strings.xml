@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_setting">Settings</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="size">10</string>
+    <string name="Title">Title</string>
+    <string name="Release">Release Date</string>
+    <string name="Synopsis">Synopsis</string>
+
+</resources>
